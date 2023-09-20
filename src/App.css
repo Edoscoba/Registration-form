@@ -1,0 +1,64 @@
+.{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body {
+  background: cadetblue;
+  background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK3P5AY6u9do4z6pqltsKXvwWaSjzOyBp9cA&usqp=CAU ") ;
+	color: #fff;
+   
+  
+}
+.registraion {
+  position: absolute;
+  top: 8%;
+  left: 40%;
+  transform: translate(-50px, -50px);
+  width: 350px;
+ 
+}
+
+.registraion h1 {
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 2px 0;
+}
+
+.registraion p {
+    font-size: 20px;
+    margin: 15px 0;
+}
+
+.registraion input {
+    font-size: 16px;
+    /* padding: 10px ,15px; */
+    width:80%;
+    height: 30px;
+ /* background: 10px solid linear-gradient(to right, red,yellow, blue); */
+    border: 1px 0;
+    border-radius: 5px;
+    outline: none;
+}
+
+.registraion button {
+    font-style: 18px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px 15px;
+    width: 34%;
+    border: 0;
+    border: 5px;
+    border-color: #fff;
+}
+
+.registraion button:hover {
+    color: red;
+
+}
+
+
+
+
